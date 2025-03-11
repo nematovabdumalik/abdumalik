@@ -1,0 +1,2 @@
+# abdumalik
+parallel-hisoblash-laboratoriyalar
